@@ -2,7 +2,7 @@
 
 How to install:  
 Launch GIMP and go to Edit > Preferences > Folders > Mypaint Brushes and see where it looks for them, put the custom brushes in that folder.
-Alternatively, click the button "Add a new folder" and give it a new path to search for the custom brushes(s) and check the box next to it to activate. (no need to restart GIMP)
+Alternatively, click the button "Add a new folder" and give it a new path to search for the custom brushes(s) and check the box next to it to activate. (no need to restart)
 
 **Blend**  
 Blending brushes to help with painting with a mouse device
